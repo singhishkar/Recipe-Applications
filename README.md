@@ -1,6 +1,6 @@
 <div align="center">
 
-👨‍🍳 <img src="Screenshots/text.svg" width="600"> 🍽️
+<h1>👨‍🍳 Recipe Applications 🍽️</h1>
 
 </div>
 
