@@ -12,7 +12,7 @@
 *.sln.docstates
 
 # Packages
-# Ignore NuGet packages (like the ones in your 'packages/' folder)
+# Ignore NuGet packages
 # This is handled automatically by Package Restore during build.
 **/[Pp]ackages/
 # project.assets.json and project.lock.json are used by Package Restore
@@ -26,7 +26,6 @@ project.lock.json
 *.etl
 
 # Visual Studio's IDE cache directory
-# This is the hidden folder '.vs/' which contains user-specific and build data
 .vs/
 
 # Other common files/extensions
